@@ -5,7 +5,6 @@
 # @Last Modified time: 2018-01-31 17:41:20
 
 import pandas as pd
-import itertools
 from itertools import combinations
 import numpy as np
 
